@@ -1,0 +1,19 @@
+{
+    "name": "et2m/tcmb_doviz",
+    "description": "Merkez Bankası Günlük Döviz Kurları",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "eT2M\\tcmb_doviz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehmet Özdemir",
+            "email": "mehmet@et2m.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
